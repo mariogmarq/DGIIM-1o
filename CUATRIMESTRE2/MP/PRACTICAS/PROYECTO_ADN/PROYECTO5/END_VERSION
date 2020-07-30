@@ -1,0 +1,13 @@
+**********************************************************************************************
+MP - PROYECTO DE SERIALIZACIÓN Y CLASIFICACIÓN DE SECUENCIAS DE ADN
+**********************************************************************************************
+
+Author: Daniel Pérez Ruiz
+Versión: 5.0
+Fecha De Finalización: 20/06/19
+
+Módulos:
+    -> main             //Función Principal
+    -> SecuenciasKmer   //Clase SecuenciasKmer [Vector Dinámico de Kmer]
+    -> Kmer             //Clase Kmer
+    -> ContadorKmer     //Clase ContadorKmer [Matriz 2D Dinámica de nperfiles x nkmers]
